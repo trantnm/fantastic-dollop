@@ -1,0 +1,2 @@
+- Có thể so sánh ký tự, sử dụng bảng mã ASCII
+- Tip: mở ngoặc xong thì đóng ngoặc luôn

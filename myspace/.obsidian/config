@@ -1,0 +1,62 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "b0e7aef1e283c5a2",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "ffb35e9623f06ed4",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day 1 - Nền tảng cơ bản.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1b6731f6dd2c0b87",
+        "type": "leaf",
+        "dimension": null,
+        "active": false,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day 3 - Hàm.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "Day 1 - Nền tảng cơ bản.md",
+    "Day 3 - Hàm.md",
+    "Day 2 - Cấu trúc điều kiện.md",
+    "Untitled.md",
+    "Day 1.md"
+  ],
+  "promptDelete": false,
+  "showLineNumber": false,
+  "lastOpenRightSidedockTab": "Backlinks"
+}
